@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10/commons-codec-1.10-javadoc.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10/commons-codec-1.10-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10/commons-codec-1.10-test-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10/commons-codec-1.10-tests.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10/commons-codec-1.10.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/Pro1/commons-codec-1.10"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB/java-json.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/Yiyang/Dropbox/My personal stuff/Columbia Course/COMS E6111 ADB"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
